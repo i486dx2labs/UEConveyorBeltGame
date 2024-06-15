@@ -14,6 +14,3 @@ class AUEConveyorBeltGameGameMode : public AGameModeBase
 public:
 	AUEConveyorBeltGameGameMode();
 };
-
-
-
