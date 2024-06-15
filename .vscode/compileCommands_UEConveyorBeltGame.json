@@ -1,0 +1,122 @@
+[
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGame.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGame.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGameCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGameCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGameGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGameGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGamePlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGamePlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGameProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\UEConveyorBeltGame\\Source\\UEConveyorBeltGame\\UEConveyorBeltGameProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\UEConveyorBeltGame\\.vscode\\compileCommands_UEConveyorBeltGame\\UEConveyorBeltGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
