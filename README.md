@@ -2,4 +2,5 @@
 
 ## Pending
 
-* Use the new connector's placement flags in the add operator to simplify some functions.
+* Allow applying a hologram to the focused belt.
+* Implement the upgrade/downgrade operators.
